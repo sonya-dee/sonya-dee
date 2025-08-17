@@ -7,9 +7,10 @@
   <img src="https://github.com/user-attachments/assets/712c7ca4-6977-4179-84a4-a6c41a3e6630" width="100"/>
   <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" width="100"/>
 </p>
-🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
 
-🍎 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
+- 🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
+
+- 🍎 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
 
 ---
 
@@ -52,10 +53,11 @@ Features in the works:
   <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
   Web Development Projects
 </h2>
-Languages: R, JavaScript, HTML, CSS, Python (beginner)
 
-Coding Tools: GitHub, Visual Studio Code, RStudio (ggplot2, plotly, tidyverse), Codédex
+- 🍎 Languages: R, JavaScript, HTML, CSS, Python (beginner)
 
-Design Tools: Figma, Pixquare 
+- 🍎 Coding Tools: GitHub, Visual Studio Code, RStudio (ggplot2, plotly, tidyverse), Codédex
+
+- 🍎 Design Tools: Figma, Pixquare 
 
 ---
