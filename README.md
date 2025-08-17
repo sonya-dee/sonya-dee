@@ -26,7 +26,7 @@ Check out my EPA project:
 
 ---
 <h2 style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/712c7ca4-6977-4179-84a4-a6c41a3e6630" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
+  <img src="https://github.com/user-attachments/assets/f4ce9c72-dc9b-4a89-89f8-e9553f1c68e1" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
   Web Development Projects
 </h2>
   
