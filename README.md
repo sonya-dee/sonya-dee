@@ -51,7 +51,7 @@ Features in the works:
 --- 
 <h2 style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
-  Web Development Projects
+  Code Stack and Design Tools
 </h2>
 
 - 🍎 Languages: R, JavaScript, HTML, CSS, Python (beginner)
