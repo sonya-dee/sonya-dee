@@ -19,8 +19,7 @@ Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
 
-<img width="64" height="64" style="vertical-align: middle" alt="apple-img" src="https://github.com/user-attachments/assets/2bdad078-f67e-4ebf-b3da-c51ece8214da" />
-/> [**Field Notebook**](https://github.com/sonya-dee/field_notebook)
+<img width="64" height="64" style="vertical-align: middle" alt="apple-img" src="https://github.com/user-attachments/assets/2bdad078-f67e-4ebf-b3da-c51ece8214da"/>[**Field Notebook**](https://github.com/sonya-dee/field_notebook)
 
 <img width="64" height="64" style="vertical-align: middle" alt="apple-img3" src="https://github.com/user-attachments/assets/8f52df2d-979d-4a14-bd32-f5abd66baf8b"/>[**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
 
