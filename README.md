@@ -1,9 +1,12 @@
 ## 👋 Hello, I'm Sonya !
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76557eb4-022e-4298-8b42-5d6a05705473" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ef73ab14-4a90-4533-b5a0-2871ad8898ee" width="40"/>
+  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" width="40"/>
+  <img src="https://github.com/user-attachments/assets/f4ce9c72-dc9b-4a89-89f8-e9553f1c68e1" width="40"/>
+  <img src="https://github.com/user-attachments/assets/712c7ca4-6977-4179-84a4-a6c41a3e6630" width="40"/>
+  <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" width="40"/>
 </p>
-
 🎓 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
 
 🌱 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
