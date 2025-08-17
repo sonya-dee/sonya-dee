@@ -15,7 +15,7 @@
 
 <h2 style="text-align: center;">🍏 Data Analysis & Visualization</h2>
 <h2 style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 2em; height: 2em; vertical-align: text-bottom;" />
+  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 2em; height: 2em; vertical-align: text-bottom; margin-top: 2em" />
   Data Analysis & Visualization 
 </h2>
 
