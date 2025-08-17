@@ -43,6 +43,5 @@ Design Tools: Figma, Pixquare
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-doubledee-a84499294/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/sonya-dee)
-[![Codédex](https://cdn-b.saashub.com/img/badges/approved-color.png?v=1)](https://www.saashub.com/codedex?utm_source=badge&utm_campaign=badge&utm_content=codedex&badge_variant=color&badge_kind=approved)
 
 -->
