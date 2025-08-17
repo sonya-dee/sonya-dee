@@ -7,13 +7,13 @@
   <img src="https://github.com/user-attachments/assets/712c7ca4-6977-4179-84a4-a6c41a3e6630" width="100"/>
   <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" width="100"/>
 </p>
-🎓 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
+🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
 
-🌱 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
+🍎 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
 
 ---
 
-### 📊 Data Analysis & Visualization
+<h2 style="text-align: center;">🍏 Data Analysis & Visualization</h2>
 I work with R and R Markdown to create reproducible, interactive reports that communicate complex environmental data clearly.
 
 Check out my EPA project:
@@ -21,7 +21,7 @@ Check out my EPA project:
 - Assesses pollution trend visualizations using statistical modeling in R
 
 ---
-### 💻 Web Development Projects
+<h2 style="text-align: center;">🍎 Web Development Projects</h2>
 Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
@@ -32,7 +32,7 @@ Check out my projects creating:
 
 <img width="64" height="64" style="position: relative; top: 2px; margin-right: 6px;" alt="apple-img5" src="https://github.com/user-attachments/assets/d87bf86f-4dbf-419a-aff1-664313c704df" />[**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
-📝 Stay Tuned for **River-Themed Planner**
+<img src="https://github.com/user-attachments/assets/ef73ab14-4a90-4533-b5a0-2871ad8898ee" width="100"/> Stay Tuned for **River-Themed Planner**
 Features in the works: 
 - To-Do List with Progress Bar
 - Side Calendar with personalized notes/to-do for each day
@@ -40,7 +40,7 @@ Features in the works:
 - Electron Desk-Top Application
 
 --- 
-### 🛠️ Coding Stack/Design Tools 
+<h2 style="text-align: center;">🍏 Coding Stack/Design Tools</h2>
 Languages: R, JavaScript, HTML, CSS, Python (beginner)
 
 Coding Tools: GitHub, Visual Studio Code, RStudio (ggplot2, plotly, tidyverse), Codédex
