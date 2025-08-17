@@ -38,10 +38,3 @@ Coding Tools: GitHub, Visual Studio Code, RStudio (ggplot2, plotly, tidyverse), 
 Design Tools: Figma, Pixquare 
 
 ---
-
-### 🤝 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonya-doubledee-a84499294/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/sonya-dee)
-
--->
