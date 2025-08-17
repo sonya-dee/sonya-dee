@@ -14,6 +14,11 @@
 ---
 
 <h2 style="text-align: center;">🍏 Data Analysis & Visualization</h2>
+<h2 style="text-align: center;">
+  Data Analysis & Visualization 
+  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 1em; height: 1em; vertical-align: text-bottom;" />
+</h2>
+
 I work with R and R Markdown to create reproducible, interactive reports that communicate complex environmental data clearly.
 
 Check out my EPA project:
@@ -32,7 +37,7 @@ Check out my projects creating:
 
 <img width="64" height="64" style="position: relative; top: 2px; margin-right: 6px;" alt="apple-img5" src="https://github.com/user-attachments/assets/d87bf86f-4dbf-419a-aff1-664313c704df" />[**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
-<img src="https://github.com/user-attachments/assets/ef73ab14-4a90-4533-b5a0-2871ad8898ee" width="100"/> Stay Tuned for **River-Themed Planner**
+Stay Tuned for **River-Themed Planner**
 Features in the works: 
 - To-Do List with Progress Bar
 - Side Calendar with personalized notes/to-do for each day
