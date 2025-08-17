@@ -19,11 +19,11 @@ Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
 
-<img width="64" height="64" style="vertical-align: middle" alt="apple-img" src="https://github.com/user-attachments/assets/2bdad078-f67e-4ebf-b3da-c51ece8214da"/>[**Field Notebook**](https://github.com/sonya-dee/field_notebook)
+<img width="64" height="64" style="vertical-align: middle" middle style="margin-right: 6px" alt="apple-img" src="https://github.com/user-attachments/assets/2bdad078-f67e-4ebf-b3da-c51ece8214da"/>[**Field Notebook**](https://github.com/sonya-dee/field_notebook)
 
-<img width="64" height="64" style="vertical-align: middle" alt="apple-img3" src="https://github.com/user-attachments/assets/8f52df2d-979d-4a14-bd32-f5abd66baf8b"/>[**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
+<img width="64" height="64" style="vertical-align: middle" style="margin-right: 6px" alt="apple-img3" src="https://github.com/user-attachments/assets/8f52df2d-979d-4a14-bd32-f5abd66baf8b"/>[**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
 
-<img width="64" height="64" style="vertical-align: middle" alt="apple-img5" src="https://github.com/user-attachments/assets/d87bf86f-4dbf-419a-aff1-664313c704df" />[**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
+<img width="64" height="64" style="vertical-align: middle" style="margin-right: 6px" alt="apple-img5" src="https://github.com/user-attachments/assets/d87bf86f-4dbf-419a-aff1-664313c704df" />[**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
 📝 Stay Tuned for **River-Themed Planner**
 Features in the works: 
