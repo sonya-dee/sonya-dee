@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" width="100"/>
 </p>
 
-- 🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
+- 🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling and analyzing trends in pollution distribution.
 
 - 🍎 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
 
