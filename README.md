@@ -2,7 +2,7 @@
 
 🎓 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
 
-🌱 I use code and creativity to explore environmental issues — from analyzing EPA datasets to creating a personalized Field Notebook App!
+🌱 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
 
 ---
 
