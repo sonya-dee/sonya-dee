@@ -1,5 +1,9 @@
 ## 👋 Hello, I'm Sonya !
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76557eb4-022e-4298-8b42-5d6a05705473" width="200"/>
+</p>
+
 🎓 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling, clean code, and analyzing trends in pollution distribution.
 
 🌱 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
