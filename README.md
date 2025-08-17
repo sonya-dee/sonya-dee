@@ -13,7 +13,6 @@
 
 ---
 
-<h2 style="text-align: center;">🍏 Data Analysis & Visualization</h2>
 <h2 style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
   Data Analysis & Visualization 
@@ -26,16 +25,20 @@ Check out my EPA project:
 - Assesses pollution trend visualizations using statistical modeling in R
 
 ---
-<h2 style="text-align: center;">🍎 Web Development Projects</h2>
+<h2 style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
+  Web Development Projects
+</h2>
+  
 Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
 
-<img width="64" height="64" style="position: relative; top: 2px; margin-right: 6px;" alt="apple-img" src="https://github.com/user-attachments/assets/2bdad078-f67e-4ebf-b3da-c51ece8214da"/>[**Field Notebook**](https://github.com/sonya-dee/field_notebook)
+- 🍎 [**Field Notebook**](https://github.com/sonya-dee/field_notebook)
 
-<img width="64" height="64" style="position: relative; top: 2px; margin-right: 6px;" alt="apple-img3" src="https://github.com/user-attachments/assets/8f52df2d-979d-4a14-bd32-f5abd66baf8b"/>[**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
+- 🍏 [**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
 
-<img width="64" height="64" style="position: relative; top: 2px; margin-right: 6px;" alt="apple-img5" src="https://github.com/user-attachments/assets/d87bf86f-4dbf-419a-aff1-664313c704df" />[**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
+- 🍎 [**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
 Stay Tuned for **River-Themed Planner**
 Features in the works: 
@@ -45,7 +48,10 @@ Features in the works:
 - Electron Desk-Top Application
 
 --- 
-<h2 style="text-align: center;">🍏 Coding Stack/Design Tools</h2>
+<h2 style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" alt="apple" style="width: 2em; height: 2em; margin-top: 4em" />
+  Web Development Projects
+</h2>
 Languages: R, JavaScript, HTML, CSS, Python (beginner)
 
 Coding Tools: GitHub, Visual Studio Code, RStudio (ggplot2, plotly, tidyverse), Codédex
