@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">🍎🍏 Sonya's Coding Repositories</h1>
+<h1 style="text-align: center;">🍎🍏 Sonya's Repositories</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ef73ab14-4a90-4533-b5a0-2871ad8898ee" width="100"/>
