@@ -18,6 +18,7 @@ Check out my EPA project:
 Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
+
 <img width="64" height="64" alt="apple-img" src="https://github.com/user-attachments/assets/e68d7b43-acbb-4710-9423-22a38d8bd95d"/>[**Field Notebook**](https://github.com/sonya-dee/field_notebook)
 
 <img width="64" height="64" alt="apple-img" src="https://github.com/user-attachments/assets/e68d7b43-acbb-4710-9423-22a38d8bd95d"/>[**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
