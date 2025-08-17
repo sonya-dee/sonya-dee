@@ -15,8 +15,8 @@
 
 <h2 style="text-align: center;">🍏 Data Analysis & Visualization</h2>
 <h2 style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 2em; height: 2em; vertical-align: text-bottom;" />
   Data Analysis & Visualization 
-  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" alt="apple" style="width: 1em; height: 1em; vertical-align: text-bottom;" />
 </h2>
 
 I work with R and R Markdown to create reproducible, interactive reports that communicate complex environmental data clearly.
