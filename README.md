@@ -19,7 +19,8 @@ Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
 - [**Field Notebook**](https://github.com/sonya-dee/field_notebook)
-- [**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
+- [**Apple Pomodoro Timer**<img width="16" height="16" alt="apple-img" src="https://github.com/user-attachments/assets/e68d7b43-acbb-4710-9423-22a38d8bd95d"/>
+**](https://github.com/sonya-dee/apple_timer)
 - [**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
 📝 Stay Tuned for **River-Themed Planner**
