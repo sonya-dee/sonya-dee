@@ -1,16 +1,8 @@
 <h1 style="text-align: center;">Web Development Portfolio | Sonya Doubledee</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef73ab14-4a90-4533-b5a0-2871ad8898ee" width="100"/>
-  <img src="https://github.com/user-attachments/assets/94504afa-3751-4a83-8f34-3da74d877362" width="100"/>
-  <img src="https://github.com/user-attachments/assets/f4ce9c72-dc9b-4a89-89f8-e9553f1c68e1" width="100"/>
-  <img src="https://github.com/user-attachments/assets/712c7ca4-6977-4179-84a4-a6c41a3e6630" width="100"/>
-  <img src="https://github.com/user-attachments/assets/22eafdb7-8855-48bb-bca0-dff11a125bcb" width="100"/>
-</p>
+- I'm a senior at Emory University studying Environmental Science with a passion for data storytelling and analyzing trends in pollution distribution.
 
-- 🍏 I'm a senior at Emory University studying Environmental Science with a passion for data storytelling and analyzing trends in pollution distribution.
-
-- 🍎 From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
+- From analyzing EPA datasets to creating a personalized Field Notebook App, I use code and creativity to explore environmental issues.
 
 ---
 
@@ -35,11 +27,11 @@ Building personal passion projects using HTML, CSS, and JavaScript.
 
 Check out my projects creating: 
 
-- 🍎 [**Field Notebook**](https://github.com/sonya-dee/field_notebook)
+- [**Field Notebook**](https://github.com/sonya-dee/field_notebook)
 
-- 🍏 [**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
+- [**Apple Pomodoro Timer**](https://github.com/sonya-dee/apple_timer)
 
-- 🍎 [**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
+- [**Felicity Viewership Trends**](https://github.com/sonya-dee/felicity_thursdays_2024)
 
 Stay Tuned for **River-Themed Planner**
 Features in the works: 
@@ -54,10 +46,10 @@ Features in the works:
   Code Stack and Design Tools
 </h2>
 
-- 🍎 Languages: R, JavaScript, HTML, CSS, Python (beginner)
+- Languages: R, JavaScript, HTML, CSS, Python (beginner)
 
-- 🍎 Coding Tools: GitHub, Visual Studio Code, Electron, RStudio (ggplot2, plotly, tidyverse), Codédex
+- Coding Tools: GitHub, Visual Studio Code, Electron, RStudio (ggplot2, plotly, tidyverse), Codédex
 
-- 🍎 Design Tools: Figma, Pixquare 
+- Design Tools: Figma, Pixquare 
 
 ---
