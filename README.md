@@ -46,10 +46,10 @@ Features in the works:
   Code Stack and Design Tools
 </h2>
 
-- Languages: R, JavaScript, HTML, CSS, Python (beginner)
+- Languages: R, JavaScript, HTML, CSS, Python
 
-- Coding Tools: GitHub, Visual Studio Code, Electron, RStudio (ggplot2, plotly, tidyverse), Codédex
+- Coding Tools: GitHub, Visual Studio Code, Electron, RStudio (ggplot2, plotly, tidyverse)
 
-- Design Tools: Figma, Pixquare 
+- Design Tools: Figma
 
 ---
